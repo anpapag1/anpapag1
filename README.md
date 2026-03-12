@@ -37,8 +37,11 @@ If a piece of software is frustrating enough, there's a good chance I'll try to 
 <img src="https://img.shields.io/badge/Full--Stack-555?style=flat-square" alt="Full-Stack" />
 <img src="https://img.shields.io/badge/Mobile-555?style=flat-square" alt="Mobile" />
 <img src="https://img.shields.io/badge/Embedded-555?style=flat-square" alt="Embedded" />
-<img src="https://img.shields.io/badge/Automation-555?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/Home%20Automation-555?style=flat-square" alt="home automation" />
+<img src="https://img.shields.io/badge/UI%2FUX-555?style=flat-square" alt="UI/UX" />
+<img src="https://img.shields.io/badge/PC%20Building-555?style=flat-square" alt="PC Building" />
 <img src="https://img.shields.io/badge/Tooling-555?style=flat-square" alt="Tooling" />
+<img src="https://img.shields.io/badge/3D%20Modeling-555?style=flat-square" alt="3D Modeling" />
 
 ---
 
@@ -52,11 +55,13 @@ If a piece of software is frustrating enough, there's a good chance I'll try to 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
 **tools**  
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+
 **embedded**  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32" />
