@@ -1,8 +1,13 @@
 ﻿# Hey, I'm Antonis 👋
+<br/>
+
+<img src="https://img.shields.io/badge/Currently%20Studying-Computer%20Science-4A90D9?style=flat-square" alt="Studying" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2ECC71?style=flat-square" alt="Open to work" />
+
 
 <table>
-  <tr>
-    <td valign="top" width="65%">
+<tr>
+<td valign="top" width="65%">
 
 ### 👨‍🎓 About Me
 
@@ -15,12 +20,8 @@ Building developer tools, experimenting with mobile apps, and connecting embedde
 
 Focused on full-stack development, React Native, and embedded projects. Interested in shipping products that are simple, useful, and reliable.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Currently%20Studying-Computer%20Science-4A90D9?style=flat-square" alt="Studying" />
-<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2ECC71?style=flat-square" alt="Open to work" />
-    </td>
-    <td valign="top" width="35%">
+</td>
+<td valign="top" width="35%">
 
 ### 🧩 Interests
 
