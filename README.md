@@ -15,7 +15,7 @@ I'm a CS student at **Democritus University of Thrace**. I build web apps, mobil
 
 I care about clean interfaces, reliable software, and tools that feel simple to use. If something feels clunky, I usually end up rebuilding it in my own way. 
 
-<!-- I like building weird things with **code, electronics, and stubborn curiosity**.
+I like building weird things with **code, electronics, and stubborn curiosity**.
 
 Most of my projects sit somewhere between:
 - software tools
@@ -23,9 +23,9 @@ Most of my projects sit somewhere between:
 - small hardware systems
 - automation experiments
 
-If a piece of software is frustrating enough, there's a good chance I'll try to rebuild it. -->
+If a piece of software is frustrating enough, there's a good chance I'll try to rebuild it.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpapag1&layout=compact&theme=dark&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpapag1&layout=compact&theme=dark&hide_border=true) -->
 
 <!-- ![GitHub streak](https://streak-stats.demolab.com?user=anpapag1&theme=dark&hide_border=true) -->
 
