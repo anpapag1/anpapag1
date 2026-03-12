@@ -25,9 +25,9 @@ Most of my projects sit somewhere between:
 
 If a piece of software is frustrating enough, there's a good chance I'll try to rebuild it. -->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpapag1&layout=compact&theme=dark&hide_border=true) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpapag1&layout=compact&theme=dark&hide_border=true)
 
-![GitHub streak](https://streak-stats.demolab.com?user=anpapag1&theme=dark&hide_border=true)
+<!-- ![GitHub streak](https://streak-stats.demolab.com?user=anpapag1&theme=dark&hide_border=true) -->
 
 </td>
 <td valign="top" width="35%">
